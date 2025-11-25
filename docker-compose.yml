@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  gd-cdss:
+    build: .
+    container_name: gd-cdss-app
+    ports
